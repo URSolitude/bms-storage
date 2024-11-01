@@ -1,0 +1,141 @@
+{
+  "urls": [
+    
+    {
+      "url": "https://ivory-adjacent-loon-290.mypinata.cloud/ipfs/QmQ4jMpJiQ9XakDyff8WjGY46vj8HUTAqsBN55rsqKbaFC/",
+      "added": "2024-10-31"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "12bc2ac02a4149cccd81b1686a50c1aa",
+          "info": {
+            "title": "When the prophecy is fulfilled",
+            "artist": "Tetrajectory",
+            "genre": "Instrumental Hip-Hop",
+            "subtitles": [
+              "[Prophecy A]"
+            ],
+            "subartists": [
+              "Origin: Daily天利 / BMS: Tetrajectory"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1395,
+          "bpm": {
+            "init": 88,
+            "min": 88,
+            "median": 88,
+            "max": 88
+          },
+          "duration": 137.72727272727275,
+          "scratch": true,
+          "keys": "7K",
+          "file": "wtpif1_spa.bms"
+        },
+        {
+          "md5": "17c49d8ac9a28ccc1daec43f0a3e082c",
+          "info": {
+            "title": "When the prophecy is fulfilled",
+            "artist": "Tetrajectory",
+            "genre": "Instrumental Hip-Hop",
+            "subtitles": [
+              "[Prophecy B]"
+            ],
+            "subartists": [
+              "Origin: Daily天利 / BMS: Tetrajectory"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 150,
+          "bpm": {
+            "init": 88,
+            "min": 88,
+            "median": 88,
+            "max": 88
+          },
+          "duration": 137.72727272727275,
+          "scratch": true,
+          "keys": "7K",
+          "file": "wtpif1_spb.bms"
+        },
+        {
+          "md5": "7e756909847f4b672a86eb2ca37f201c",
+          "info": {
+            "title": "When the prophecy is fulfilled",
+            "artist": "Tetrajectory",
+            "genre": "Instrumental Hip-Hop",
+            "subtitles": [
+              "[Prophecy H]"
+            ],
+            "subartists": [
+              "Origin: Daily天利 / BMS: Tetrajectory"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1018,
+          "bpm": {
+            "init": 88,
+            "min": 88,
+            "median": 88,
+            "max": 88
+          },
+          "duration": 137.72727272727275,
+          "scratch": true,
+          "keys": "7K",
+          "file": "wtpif1_sph.bms"
+        },
+        {
+          "md5": "b4aa23ab431e31a16496f7a329c1ce6a",
+          "info": {
+            "title": "When the prophecy is fulfilled",
+            "artist": "Tetrajectory",
+            "genre": "Instrumental Hip-Hop",
+            "subtitles": [
+              "[Prophecy N]"
+            ],
+            "subartists": [
+              "Origin: Daily天利 / BMS: Tetrajectory"
+            ],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 389,
+          "bpm": {
+            "init": 88,
+            "min": 88,
+            "median": 88,
+            "max": 88
+          },
+          "duration": 137.72727272727275,
+          "scratch": true,
+          "keys": "7K",
+          "file": "wtpif1_spn.bms"
+        }
+      ],
+      "title": "When the prophecy is fulfilled",
+      "artist": "Tetrajectory",
+      "genre": "Instrumental Hip-Hop",
+      "bpm": 88,
+      "replaygain": "-8.82 dB",
+      "preview_offset": 90,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/i4vif5/when-the-prophecy-is-fulfilled",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=146",
+      "bmssearch_id": "Gj25e2Z4DFKFMY",
+      "artist_url": "https://x.com/i4vif5",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "added": "2024-10-31T00:00:00.000Z",
+      "id": "QmQ4jMpJiQ9XakDyff8WjGY46vj8HUTAqsBN55rsqKbaFC",
+      "path": "https://ivory-adjacent-loon-290.mypinata.cloud/ipfs/QmQ4jMpJiQ9XakDyff8WjGY46vj8HUTAqsBN55rsqKbaFC/"
+    }
+  ]
+}
