@@ -2,13 +2,13 @@
   "urls": [
     
     {
-      "url": "https://ivory-adjacent-loon-290.mypinata.cloud/ipfs/QmQ4jMpJiQ9XakDyff8WjGY46vj8HUTAqsBN55rsqKbaFC/",
+      "url": "https://github.com/URSolitude/bms-storage/blob/main/wtpif/",
       "added": "2024-10-31"
     }
   ],
   "songs": [
     {
-      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "bemusepack_url": "https://github.com/URSolitude/bms-storage/blob/main/wtpif/metadata.json",
       "charts": [
         {
           "md5": "12bc2ac02a4149cccd81b1686a50c1aa",
